@@ -1,9 +1,7 @@
-# Hello — I'm Lilly!
+# Hello — I'm Lillian!
 Aspiring UX researcher and designer. Think anthropologically. 
 
-Focus on empathy and compassion. San José-based.
-
-I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I wanted to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take the UX research and UX design course during my last quarter, where I've grown to love the field. I strive to learn, improve, and expand my thinking and skillset. 
+I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take the UX research and UX design course during my last quarter, where I've grown to love the field. UX takes me from understanding why people do the things they do to designing or improving their experiences — the transition from empathizing to feeling compassion is my drive for taking action with an end goal. 
 
 **Let's connect!**
 
