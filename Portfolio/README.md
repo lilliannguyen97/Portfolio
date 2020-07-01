@@ -3,9 +3,9 @@ Aspiring UX researcher and designer. Think anthropologically.
 
 I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take the UX research and UX design course during my last quarter, where I've grown to love the field. 
 
-UX takes me from understanding why people do the things they do to designing or improving their experiences — the transition from empathizing to feeling compassion is my drive for taking action with an end goal. 
+UX takes me from understanding why people do the things they do to designing or improving their experiences — the transition from empathizing to feeling compassion drives me to take action with intent. 
 
-**Let's connect!**
+## Let's connect!
 
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
 
