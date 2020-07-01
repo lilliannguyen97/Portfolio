@@ -1,4 +1,4 @@
-# Hello!
+# Hello! My name is Lillian Nguyen.
 
-## My name is Lillian Nguyen.
-## I am a new graduate 
+### Aspiring UX researcher and designer. Think anthropologically. Focus on empathy and compassion. 
+
