@@ -3,9 +3,10 @@ Aspiring UX researcher and designer. Think anthropologically.
 
 Focus on empathy and compassion. San José-based.
 
-I'm a recent college graduate from the University of California, Los Angeles.
+I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I wanted to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take the UX research and UX design course during my last quarter, where I've grown to love the field. I strive to learn, improve, and expand my thinking and skillset. 
 
 **Let's connect!**
+
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
 
 ## UX Course Projects
