@@ -138,6 +138,8 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 
 ### Design 
 
+Prototyping and User Testing
+
 #### Low-Fidelity Prototype
 I focused on improving the design of these three features:
 
