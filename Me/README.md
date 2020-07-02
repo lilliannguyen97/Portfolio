@@ -7,7 +7,7 @@ I'm a recent college graduate from the University of California, Los Angeles. Wi
 
 It takes me from understanding why people do things to improving their experiences. That process of listening and learning to reseaarching and designing puts people first in the center of everything — that's what makes UX so meaningful to me. 
 
-#**I'd love to speak with you!**
+**I'd love to speak with you!**
 
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
 
