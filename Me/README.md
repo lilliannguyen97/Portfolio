@@ -1,13 +1,13 @@
 # Hello — I'm Lillian!
-## Aspiring UX researcher and designer
+## Aspiring UX Researcher and Designer
 
 ![MyPhoto](MyPhoto.jpg)
 
 I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter.
 
-From there, I've grown to love the UX field. It takes me from understanding why people do the things to designing or improving their experiences — that transition from **empathizing to feeling compassion** drives me to take action with intent. I strive to always continue learning and improving myself, expanding my thinking and skillset.  
+From there, I've grown to love the UX field. It takes me from understanding why people do the things to designing or improving their experiences — that transition from empathizing to feeling compassion drives me to take action with intent. I strive to always continue learning and improving myself, expanding my thinking and skillset.  
 
-## I'd love to speak with you!
+#**I'd love to speak with you!**
 
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
 
@@ -19,7 +19,7 @@ Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linke
 
 ## Communication During a Telehealth Experience at UCLA Counseling and Psychological Services (CAPS)
 
-### Challenge
+### Overview
 In response to the coronavirus disease (COVID-19) pandemic and shelter-in-place orders, UCLA’s CAPS transitioned to telehealth services only in order to provide remote treatment to the general student body. The transition to telehealth is new to many of the students and clinicians, and so student feedback is limited and unknown. There is a lack of information on the telehealth experience of UCLA students, or college students in general, especially in the context of this new reality. 
 
 I determined there needed to be more insight on the telehealth implementation from students in order to create great experiences. I focus on communication since it is the one of most important factors in a counseling session. The research I conducted was generative, or in the discovery phase. 
@@ -105,6 +105,17 @@ The three main constructs of communication: responsiveness/attentiveness of clin
 
 
 ## San José 311 App Redesign
+
+### Overview
+The San José 311 mobile app allows people to maintain the safety and cleanliness of the city of San José by connecting them to City services and crew. They can report non-emergency issues, track the status at each phase, and stay updated on issues in the area by viewing and following reports made by other people. The app aims to create safety through a clean environment with the help of the community. 
+
+However, the current state of the app causes unnecessary delays and confusion to both experienced and inexperienced tech users.
+
+*How might I create an intuitive design that all community members can use efficiently and effortlessly?*
+
+
+
+
 
 
 
