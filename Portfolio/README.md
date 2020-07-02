@@ -51,21 +51,21 @@ I determined there needed to be more insight on the telehealth implementation fr
 **Interviews**
 I reviewed and transcribed my notes and included additional information from memory immediately after each interview. After sifting through the data, I organized the data by thematic analysis in a Google spreadsheet, grouping them into each measure of communication. Due to the amount of information collected, I prioritized the main themes that are high in severity and significant to my research question. 
 
-The three main constructs of communication: **responsiveness/attentiveness of clinician**, **visual cues**, and **forming trust/bonds**. 
+The three main constructs of communication: **responsiveness/attentiveness of clinician, visual cues, and forming trust/bonds**. 
 
 **Survey**
 With only three survey responses within two weeks, it was difficult to analyze and obtain useful information. Since most of the questions were closed-ended, I could only use descriptive statistics by finding the average and standard deviation, of each question. However, the quantitative data did not amount to much insight and/or did not support the interview responses. 
 
 ### Key Insights
-**Responsiveness/Attentiveness of Clinician**
-* Not being heard or shown empathy
+:bulb: Responsiveness/Attentiveness of Clinician
+  * Not being heard or shown empathy
 
-**Visual Cues**
-* Clinician was distracted or not paying attention
-* Lack of visual cues 
+:bulb: Visual Cues
+  * Clinician was distracted or not paying attention
+  * Lack of visual cues 
 
-**Forming Trust/Bonds**
-* The most defining factor of a counseling experience
+:bulb: Trust/Bonds
+  * The most defining factor of a counseling experience
 
 ### Conclusion
 * Telehealth offers a great alternative for many students to benefit from but it is not a replacement for in-person counseling sessions.
