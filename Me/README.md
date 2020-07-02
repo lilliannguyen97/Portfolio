@@ -5,7 +5,7 @@
 
 I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter, where I've grown to love the UX field. 
 
-It takes me from understanding why people do the things to designing or improving their experiences — that transition from empathizing to feeling compassion drives me to take action with intent. I strive to always continue learning and improving myself, expanding my thinking and skillset.  
+It takes me from understanding why people do things to improving their experiences. That process of listening and learning to reseaarching and designing puts people first in the center of everything — that's what makes UX so meaningful to me. 
 
 #**I'd love to speak with you!**
 
@@ -58,7 +58,7 @@ With only three survey responses within two weeks, it was difficult to analyze a
 
 The three main constructs of communication: responsiveness/attentiveness of clinician, visual cues, and forming trust/bonds. 
 
-**Not being heard or shown empathy**
+**They are not being heard or shown empathy.**
 
 >“I felt no empathy and feelings from him in telehealth.”
 
@@ -68,11 +68,11 @@ The three main constructs of communication: responsiveness/attentiveness of clin
 
 >“He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
-**Clinician was distracted or not paying attention**
+**Clinician was distracted or not paying attention.**
 
 >“He was distracted and looking around a lot.”
 
-**Lack of visual cues**
+**There is a lack of visual cues.**
 
 >“I can’t read the other person’s body language so there is more awkward stumbling.”
 
@@ -80,7 +80,7 @@ The three main constructs of communication: responsiveness/attentiveness of clin
 
 >“When there is silence, I am either waiting for her to think or ask questions. I can’t read the social cues so we have to move on to verbal cues and set more communication guidelines.”
 
-**Forming trust/bonds is the most defining factor of a counseling experience**
+**Forming trust/bonds is the most defining factor of a counseling experience.**
 >“I just want the clinician to listen and pay attention.” 
 
 >“Intent is the same but the impact is different since it is harder to connect, receive, and give fully through technology or a screen.”
@@ -123,9 +123,22 @@ I conducted a heuristic evaluation of the app, using Jakob Nielsen's 10 general 
 1. Checking the status of the report
 1. Searching for reports made by other people
 
+### User Research
+I conducted a contextual inquiry and found three key insights that this redesign aims to solve:
 
+* **It is important to report an issue for not only the individual but also for the community.** — The app is a community tool for
+keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself.
 
+* **A long amount of time to submit a report is preferred.** — The participant claimed that, with more use, they will gradually learn to use the app and decrease time spent on the app. Technical ability is important for being able to navigate the app efficiently but a good UX design that caters to those with multiple abilities is best.
 
+* **The long time spent on a task is attributed to the lack of technology experience.** — Poor UX is not one of the problems for navigating the app because the participant thinks their technical ability needs to be improved, which, in turn, obscures the possibility of the system being a problem.
+
+### UX Storytelling
+I created personas and scenarios on the target audience:
+
+* A man with medium technical literacy and wants to have transparent and timely updates on his reports.
+* A new undergraduate with high technical literacy and wants to browse and search for other reports in her community.
+* An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
 
 
 
