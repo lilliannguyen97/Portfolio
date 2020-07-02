@@ -11,11 +11,11 @@ From there, I've grown to love the UX field. It takes me from understanding why 
 
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
 
-## UX Projects
+# UX Projects
 * **UX Research** — Communication During a Telehealth Experience at UCLA Counseling and Psychological Services
-* **UX Design** — Redesigning the San José 311 App
+* **UX Design** — San José 311 App Redesign
 
-# Communication During a Telehealth Experience at UCLA Counseling and Psychological Services 
+## Communication During a Telehealth Experience at UCLA Counseling and Psychological Services 
 
 
 
