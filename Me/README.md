@@ -24,8 +24,6 @@ In response to the coronavirus disease (COVID-19) pandemic and shelter-in-place 
 
 I determined there needed to be more insight on the telehealth implementation from students in order to create great experiences. I focus on communication since it is the one of most important factors in a counseling session. The research I conducted was generative, or in the discovery phase. 
 
-*Note: UCLA Counseling and Psychological Services is not associated with this project. This is only a student-led project for class.*
-
 ***How might we improve the communication between clinician and student during a telehealth session at CAPS?***
 
 ### Research Goals
@@ -101,6 +99,8 @@ The three main constructs of communication: responsiveness/attentiveness of clin
 * Stronger connections and development of bonds between clinician and student
 * Enhanced student telehealth experience due to better communication and trust
 * Gain insight into the clinicians’ perspective in order to improve their experience, which could indirectly produce positive student experiences
+
+*Note: UCLA Counseling and Psychological Services is not associated with this project. This is only a student-led project for class.*
 
 
 
