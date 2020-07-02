@@ -159,6 +159,10 @@ I focused on improving the design of these three features:
 ![Lofi 3](Lofi_Prototype_3.jpg)
 
 ### High-Fidelity Prototype
+Check out the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen)!
+
+![Representative Screens](Represent.png)
+
 I solved three main tasks:
 1. View other reports with filter/advanced search --> **Explore** page
    - Map and list view to see other reports
@@ -169,7 +173,6 @@ I solved three main tasks:
 1. Make a report --> **Make a Report** page
    - A step-by-step application process
 
-![Representative Screens](Represent.png)
 
 
 
