@@ -3,9 +3,9 @@
 
 ![MyPhoto](MyPhoto.jpg)
 
-I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter.
+I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter, where I've grown to love the UX field. 
 
-From there, I've grown to love the UX field. It takes me from understanding why people do the things to designing or improving their experiences — that transition from empathizing to feeling compassion drives me to take action with intent. I strive to always continue learning and improving myself, expanding my thinking and skillset.  
+It takes me from understanding why people do the things to designing or improving their experiences — that transition from empathizing to feeling compassion drives me to take action with intent. I strive to always continue learning and improving myself, expanding my thinking and skillset.  
 
 #**I'd love to speak with you!**
 
