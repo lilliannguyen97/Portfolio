@@ -60,14 +60,29 @@ With only three survey responses within two weeks, it was difficult to analyze a
 
 Responsiveness/Attentiveness of Clinician
 * Not being heard or shown empathy
+
 >Jerry: “I felt no empathy and feelings from him in telehealth.”
+
 >Jerry: “He showed no validation for my feelings. He tried to normalize my feelings of COVID-19. He said, ‘Everyone is going through the same thing,’ which made me embarrassed.”
+
 >Jerry: “He tries to give advice without truly listening or trying to understand my situation.”
+
 >Jerry: “He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
 Visual Cues
+
 * Clinician was distracted or not paying attention
+
+>Jerry: “He was distracted and looking around a lot.”
+
 * Lack of visual cues 
+
+>Tina: “I can’t read the other person’s body language so there is more awkward stumbling.”
+
+>Tina: “There are lots of pauses and silences from both sides because I can’t read the social cues.”
+
+>Tina: “When there is silence, I am either waiting for her to think or ask questions. I can’t read the social cues so we have to move on to verbal cues and set more communication guidelines.”
+
 
 Trust/Bonds
 * The most defining factor of a counseling experience
@@ -76,8 +91,6 @@ Trust/Bonds
 * Telehealth offers a great alternative for many students to benefit from but it is not a replacement for in-person counseling sessions.
 * Telehealth may impede effective communication and result in unsatisfying experiences or less positive impact on emotional health. 
 * Effective communication through active listening, empathy, and clear visual cues helps build bonds and trust between clinician and student, which may positively impact emotional health.
-
->Improving communication during telehealth is the highest priority.
 
 ### Recommendations
 * Provide training materials to clinicians on improving communication during video conferencing and learning best practices to show empathy in computer-mediated communication
