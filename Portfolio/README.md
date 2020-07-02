@@ -1,9 +1,9 @@
 # Hello — I'm Lillian!
-Aspiring UX researcher and designer. Think anthropologically. 
+Aspiring UX researcher and designer 
 
-I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take the UX research and UX design course during my last quarter, where I've grown to love the field. 
+I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter.
 
-UX takes me from understanding why people do the things they do to designing or improving their experiences — the transition from empathizing to feeling compassion drives me to take action with intent. 
+From there, I've grown to love the UX field. It takes me from understanding why people do the things they do to designing or improving their experiences — the transition from empathizing to feeling compassion drives me to take action with intent. 
 
 ## Let's connect!
 
