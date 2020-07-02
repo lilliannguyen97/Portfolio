@@ -12,7 +12,7 @@ It takes me from understanding why people do things to improving their experienc
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
 
 ## UX Projects
-* **UX Research** — Communication During a Telehealth Experience at UCLA Counseling and Psychological Services
+* **UX Research** — Communication During a Telehealth Experience 
 * **UX Design** — San José 311 App Redesign
 
 
