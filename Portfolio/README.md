@@ -1,7 +1,7 @@
 # Hello — I'm Lillian!
 Aspiring UX researcher and designer 
 
-[MyPhoto](MyPhoto.jpg)
+![MyPhoto](MyPhoto.jpg)
 
 I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter.
 
