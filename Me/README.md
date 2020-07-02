@@ -153,9 +153,23 @@ I focused on improving the design of these three features:
 * Step-by-step process to improve flow of questions
 * A status tracker and progress update for transparency
 * Easy filters to search for specific reports
+
 ![Lofi 1](Lofi_Prototype_1.jpg)
 ![Lofi 2](Lofi_Prototype_2.jpg)
 ![Lofi 3](Lofi_Prototype_3.jpg)
+
+### High-Fidelity Prototype
+I solved three main tasks:
+1. View other reports with filter/advanced search --> **Explore** page
+   - Map and list view to see other reports
+   - Advanced filtering to search other reports
+1. Check my reports --> **My Reports** page
+   - Visibility of report status 
+   - Ability to edit report after submission
+1. Make a report --> **Make a Report** page
+   - A step-by-step application process
+
+![Representative Screens](Represent.png)
 
 
 
