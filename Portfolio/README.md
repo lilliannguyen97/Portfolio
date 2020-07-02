@@ -57,19 +57,20 @@ The three main constructs of communication: **responsiveness/attentiveness of cl
 With only three survey responses within two weeks, it was difficult to analyze and obtain useful information. Since most of the questions were closed-ended, I could only use descriptive statistics by finding the average and standard deviation, of each question. However, the quantitative data did not amount to much insight and/or did not support the interview responses. 
 
 ### Key Insights
-:bulb: Responsiveness/Attentiveness of Clinician
-       * Not being heard or shown empathy
-         >Jerry: “I felt no empathy and feelings from him in telehealth.”
-         >Jerry: “He showed no validation for my feelings. He tried to normalize my feelings of COVID-19. He said, ‘Everyone is going through the same thing,’ which made me embarrassed.”
-         >Jerry: “He tries to give advice without truly listening or trying to understand my situation.”
-         >Jerry: “He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
-:bulb: Visual Cues
-       * Clinician was distracted or not paying attention
-       * Lack of visual cues 
+Responsiveness/Attentiveness of Clinician
+* Not being heard or shown empathy
+>Jerry: “I felt no empathy and feelings from him in telehealth.”
+>Jerry: “He showed no validation for my feelings. He tried to normalize my feelings of COVID-19. He said, ‘Everyone is going through the same thing,’ which made me embarrassed.”
+>Jerry: “He tries to give advice without truly listening or trying to understand my situation.”
+>Jerry: “He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
-:bulb: Trust/Bonds
-       * The most defining factor of a counseling experience
+Visual Cues
+* Clinician was distracted or not paying attention
+* Lack of visual cues 
+
+Trust/Bonds
+* The most defining factor of a counseling experience
 
 ### Conclusion
 * Telehealth offers a great alternative for many students to benefit from but it is not a replacement for in-person counseling sessions.
