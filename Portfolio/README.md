@@ -58,14 +58,18 @@ With only three survey responses within two weeks, it was difficult to analyze a
 
 ### Key Insights
 :bulb: Responsiveness/Attentiveness of Clinician
-  * Not being heard or shown empathy
+       * Not being heard or shown empathy
+         >Jerry: “I felt no empathy and feelings from him in telehealth.”
+         >Jerry: “He showed no validation for my feelings. He tried to normalize my feelings of COVID-19. He said, ‘Everyone is going through the same thing,’ which made me embarrassed.”
+         >Jerry: “He tries to give advice without truly listening or trying to understand my situation.”
+         >Jerry: “He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
 :bulb: Visual Cues
-  * Clinician was distracted or not paying attention
-  * Lack of visual cues 
+       * Clinician was distracted or not paying attention
+       * Lack of visual cues 
 
 :bulb: Trust/Bonds
-  * The most defining factor of a counseling experience
+       * The most defining factor of a counseling experience
 
 ### Conclusion
 * Telehealth offers a great alternative for many students to benefit from but it is not a replacement for in-person counseling sessions.
