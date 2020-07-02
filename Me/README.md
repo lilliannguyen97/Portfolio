@@ -119,6 +119,7 @@ However, the current state of the app causes unnecessary delays and confusion to
 1. Ideation
    * Wireframes and Wireflows
    * Low-Fidelty Prototype Testing
+1. Design
 1. to be continued/changed....
 
 ### Heuristic Evaluation
@@ -137,12 +138,22 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 
 * **The long time spent on a task is attributed to the lack of technology experience.** — Poor UX is not one of the problems for navigating the app because the participant thinks their technical ability needs to be improved, which, in turn, obscures the possibility of the system being a problem.
 
+### Personas and Empathy Maps
+
 ![Ben Persona](ben_persona.jpg) 
 ![Ben Empathy Map](ben_empathymap.jpg)
 ![Katie Persona](katie_persona.jpg) 
 ![Katie Empathy Map](katie_empathymap.jpg)
 ![Karen Persona](karen_persona.jpg) 
 ![Karen Empathy Map](karen_empathymap.jpg)
+
+### Low-Fidelity Prototype
+
+![Lofi 1](Lofi_Prototype_1.jpg)
+![Lofi 2](Lofi_Prototype_2.jpg)
+![Lofi 3](Lofi_Prototype_3.jpg)
+
+
 
 
 
