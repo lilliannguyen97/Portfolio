@@ -90,7 +90,7 @@ The three main constructs of communication: responsiveness/attentiveness of clin
 * Emphasize and exaggerate facial expressions, hand gestures, and verbal feedback/responses* to help facilitate the flow of communication, as well as make visual cues of empathy and active listening more transparent
 * Conduct future qualitative research with the clinicians
 
-**Potential Outcomes**: 
+**Potential Outcomes:**
 * Stronger connections and development of bonds between clinician and student
 * Enhanced student telehealth experience due to better communication and trust
 * Gain insight into the clinicians’ perspective in order to improve their experience, which could indirectly produce positive student experiences
