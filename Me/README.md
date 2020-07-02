@@ -26,7 +26,7 @@ I determined there needed to be more insight on the telehealth implementation fr
 
 *Note: UCLA Counseling and Psychological Services is not associated with this project. This is only a student-led project for class.*
 
-*How might we improve the communication between clinician and student during a telehealth session at CAPS?*
+***How might we improve the communication between clinician and student during a telehealth session at CAPS?***
 
 ### Research Goals
 1.  To understand the integration or role of telehealth in a counseling session
@@ -111,7 +111,17 @@ The San José 311 mobile app allows people to maintain the safety and cleanlines
 
 However, the current state of the app causes unnecessary delays and confusion to both experienced and inexperienced tech users.
 
-*How might I create an intuitive design that all community members can use efficiently and effortlessly?*
+***How might we create an intuitive design that all community members can use efficiently and effortlessly?***
+
+## Process
+
+## Competitor Analysis
+I conducted a heuristic evaluation of the app, using Jakob Nielsen's 10 general principles for user interface design. Upon evaluating the app, I noticed issues with completing the following tasks:
+
+1. Creating and submitting a report
+1. Checking the status of the report
+1. Searching for reports made by other people
+
 
 
 
