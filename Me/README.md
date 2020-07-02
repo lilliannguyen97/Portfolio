@@ -114,9 +114,10 @@ However, the current state of the app causes unnecessary delays and confusion to
 ***How might we create an intuitive design that all community members can use efficiently and effortlessly?***
 
 ## Process
+include visual
 
 ## Competitor Analysis
-I conducted a heuristic evaluation of the app, using Jakob Nielsen's 10 general principles for user interface design. Upon evaluating the app, I noticed issues with completing the following tasks:
+I conducted a heuristic evaluation of the app, using Jakob Nielsen's 10 general principles for user interface design. I noticed issues with completing the following tasks:
 
 1. Creating and submitting a report
 1. Checking the status of the report
