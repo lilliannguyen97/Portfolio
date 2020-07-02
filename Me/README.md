@@ -159,7 +159,7 @@ I focused on improving the design of these three features:
 ![Lofi 3](Lofi_Prototype_3.jpg)
 
 ### High-Fidelity Prototype
-Check out the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen)!
+Check out the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen) on Adobe XD!
 
 ![Representative Screens](Represent.png)
 
