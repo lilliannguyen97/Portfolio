@@ -26,13 +26,8 @@ I determined there needed to be more insight on the telehealth implementation fr
 
 ***How might we improve the communication between clinician and student during a telehealth session at CAPS?***
 
-### Research Goals
-1.  To understand the integration or role of telehealth in a counseling session
-1.  To identify problems that students may encounter when using telehealth 
-1.  To learn about changes participants might make to their telehealth experience 
-1.  To uncover the most important factors of a counseling session or experience
 
-### Research Process
+### Process
 
 1.  **Stakeholder Interview**  
     * I conducted a remote semi-structured interview with a staff clinician through Zoom, unrecorded per their request. 
@@ -44,7 +39,7 @@ I determined there needed to be more insight on the telehealth implementation fr
     * I created a Google Form of closed-ended questions with a numbered scale from "Not at all" to "Very Much," modified and based on three other standardized surveys. 
     * The questions intended to measure certain criteria of communication with the clinician: engagement, responsiveness/attentiveness of clinician, visual cues, forming bonds/trust, increased patient empowerment, and changes in emotional health.
     
-### Data Analysis
+### Analysis
 
 **Interviews**
 
@@ -114,17 +109,26 @@ However, the current state of the app causes unnecessary delays and confusion to
 ***How might we create an intuitive design that all community members can use efficiently and effortlessly?***
 
 ### Process
-include visual
 
-### Competitor Analysis
+1. Research
+   * Heurisitic Evaluation 
+   * Contextual Inquiry
+1. Analysis
+   * Personas
+   * Empathy Maps
+1. Ideation
+   * Wireframes and Wireflows
+   * Low-Fidelty Prototype Testing
+1. to be continued/changed....
+
+### Heuristic Evaluation
 I conducted a heuristic evaluation of the app, using Jakob Nielsen's 10 general principles for user interface design. I noticed issues with completing the following tasks:
 
 1. Creating and submitting a report
 1. Checking the status of the report
 1. Searching for reports made by other people
 
-### User Research
-I conducted a contextual inquiry and found three key insights that this redesign aims to solve:
+### Contextual Inquiry
 
 * **It is important to report an issue for not only the individual but also for the community.** — The app is a community tool for
 keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself.
@@ -133,12 +137,7 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 
 * **The long time spent on a task is attributed to the lack of technology experience.** — Poor UX is not one of the problems for navigating the app because the participant thinks their technical ability needs to be improved, which, in turn, obscures the possibility of the system being a problem.
 
-### UX Storytelling
-I created personas and scenarios on the target audience:
 
-* A man with medium technical literacy and wants to have transparent and timely updates on his reports.
-* A new undergraduate with high technical literacy and wants to browse and search for other reports in her community.
-* An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
 
 
 
