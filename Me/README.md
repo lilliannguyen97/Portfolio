@@ -148,7 +148,11 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 ![Karen Empathy Map](karen_empathymap.jpg)
 
 ### Low-Fidelity Prototype
+I focused on improving the design of these three features:
 
+* Step-by-step process to improve flow of questions
+* A status tracker and progress update for transparency
+* Easy filters to search for specific reports
 ![Lofi 1](Lofi_Prototype_1.jpg)
 ![Lofi 2](Lofi_Prototype_2.jpg)
 ![Lofi 3](Lofi_Prototype_3.jpg)
