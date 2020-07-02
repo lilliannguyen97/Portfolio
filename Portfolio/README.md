@@ -70,7 +70,7 @@ With only three survey responses within two weeks, it was difficult to analyze a
 * Telehealth may impede effective communication and result in unsatisfying experiences or less positive impact on emotional health. 
 * Effective communication through active listening, empathy, and clear visual cues helps build bonds and trust between clinician and student, which may positively impact emotional health.
 
-### >*Improving communication during telehealth is the highest priority.*
+>*Improving communication during telehealth is the highest priority.*
 
 ### Recommendations
 * Provide training materials to clinicians on improving communication during video conferencing and learning best practices to show empathy in computer-mediated communication
