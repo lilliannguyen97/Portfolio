@@ -57,35 +57,32 @@ The three main constructs of communication: **responsiveness/attentiveness of cl
 With only three survey responses within two weeks, it was difficult to analyze and obtain useful information. Since most of the questions were closed-ended, I could only use descriptive statistics by finding the average and standard deviation, of each question. However, the quantitative data did not amount to much insight and/or did not support the interview responses. 
 
 ### Key Insights
+**Not being heard or shown empathy**
 
-Responsiveness/Attentiveness of Clinician
-* Not being heard or shown empathy
+>“I felt no empathy and feelings from him in telehealth.”
 
->Jerry: “I felt no empathy and feelings from him in telehealth.”
+>“He showed no validation for my feelings. He tried to normalize my feelings of COVID-19. He said, ‘Everyone is going through the same thing,’ which made me embarrassed.”
 
->Jerry: “He showed no validation for my feelings. He tried to normalize my feelings of COVID-19. He said, ‘Everyone is going through the same thing,’ which made me embarrassed.”
+>“He tries to give advice without truly listening or trying to understand my situation.”
 
->Jerry: “He tries to give advice without truly listening or trying to understand my situation.”
+>“He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
->Jerry: “He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
+**Clinician was distracted or not paying attention**
 
-Visual Cues
+>“He was distracted and looking around a lot.”
 
-* Clinician was distracted or not paying attention
+**Lack of visual cues**
 
->Jerry: “He was distracted and looking around a lot.”
+>“I can’t read the other person’s body language so there is more awkward stumbling.”
 
-* Lack of visual cues 
+>“There are lots of pauses and silences from both sides because I can’t read the social cues.”
 
->Tina: “I can’t read the other person’s body language so there is more awkward stumbling.”
+>“When there is silence, I am either waiting for her to think or ask questions. I can’t read the social cues so we have to move on to verbal cues and set more communication guidelines.”
 
->Tina: “There are lots of pauses and silences from both sides because I can’t read the social cues.”
+**Forming trust/bonds is the most defining factor of a counseling experience**
+>“I just want the clinician to listen and pay attention.” 
 
->Tina: “When there is silence, I am either waiting for her to think or ask questions. I can’t read the social cues so we have to move on to verbal cues and set more communication guidelines.”
-
-
-Trust/Bonds
-* The most defining factor of a counseling experience
+>“Intent is the same but the impact is different since it is harder to connect, receive, and give fully through technology or a screen.”
 
 ### Conclusion
 * Telehealth offers a great alternative for many students to benefit from but it is not a replacement for in-person counseling sessions.
