@@ -36,14 +36,55 @@ I determined there needed to be more insight on the telehealth implementation fr
 ### Research Process
 
 1.  **Stakeholder Interview**  
-   * I conducted a remote semi-structured interview with a staff clinician through Zoom. 
-   * I asked them about their perspective on telehealth, any problems that students face, and their goal towards continuing telehealth in the future. 
+    * I conducted a remote semi-structured interview with a staff clinician through Zoom, unrecorded per their request. 
+    * I asked them about their perspective on telehealth, any problems that students face, and their goal towards continuing telehealth in the future. 
 1.  **Student Interviews**
-   * I conducted remote structured interviews with two UCLA students who have experienced at least one telehealth session through Facetime. 
-   * I asked participants about their attitude towards telehealth, communication with their clinician, and any changes in emotional health.
+    * I conducted remote structured interviews with two UCLA students who have experienced at least one telehealth session through Facetime, unrecorded per their request. 
+    * I asked participants about their attitude towards telehealth, communication with their clinician, and any changes in emotional health.
 1.  **Online Survey**
-   * I created a Google Form to capture responses from the general UCLA student body.
-   * Close-ended questions intend to measure certain criteria of communication with the clinician: engagement, responsiveness/attentiveness of clinician, visual cues, forming bonds/trust, increased patient empowerment, and changes in emotional health.
+    * I created a Google Form of closed-ended questions with a numbered scale from "Not at all" to "Very Much," modified and based on three other standardized surveys. 
+    * The questions intended to measure certain criteria of communication with the clinician: engagement, responsiveness/attentiveness of clinician, visual cues, forming bonds/trust, increased patient empowerment, and changes in emotional health.
+    
+### Data Analysis
+
+**Interviews**
+I reviewed and transcribed my notes and included additional information from memory immediately after each interview. After sifting through the data, I organized the data by thematic analysis in a Google spreadsheet, grouping them into each measure of communication. Due to the amount of information collected, I prioritized the main themes that are high in severity and significant to my research question. 
+
+The three main constructs of communication: **responsiveness/attentiveness of clinician**, **visual cues**, and **forming trust/bonds**. 
+
+**Survey**
+With only three survey responses within two weeks, it was difficult to analyze and obtain useful information. Since most of the questions were closed-ended, I could only use descriptive statistics by finding the average and standard deviation, of each question. However, the quantitative data did not amount to much insight and/or did not support the interview responses. 
+
+### Key Insights
+**Responsiveness/Attentiveness of Clinician**
+* Not being heard or shown empathy
+**Visual Cues**
+* Clinician was distracted or not paying attention
+* Lack of visual cues 
+**Forming Trust/Bonds**
+* The most defining factor of a counseling experience
+
+### Conclusion
+* Telehealth offers a great alternative for many students to benefit from but it is not a replacement for in-person counseling sessions.
+* Telehealth may impede effective communication and result in unsatisfying experiences or less positive impact on emotional health. 
+* Effective communication through active listening, empathy, and clear visual cues helps build bonds and trust between clinician and student, which may positively impact emotional health.
+
+### *Improving communication during telehealth is the highest priority.*
+
+### Recommendations
+* Provide training materials to clinicians on improving communication during video conferencing and learning best practices to show empathy in computer-mediated communication
+* Emphasize and exaggerate facial expressions, hand gestures, and verbal feedback/responses* to help facilitate the flow of communication, as well as make visual cues of empathy and active listening more transparent
+* Conduct future qualitative research with the clinicians
+
+**Potential Outcomes**: 
+* Stronger connections and development of bonds between clinician and student
+* Enhanced student telehealth experience due to better communication and trust
+* Gain insight into the clinicians’ perspective in order to improve their experience, which indirectly produces positive student experiences
+
+
+
+
+
 
 
 
