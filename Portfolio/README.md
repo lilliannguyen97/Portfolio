@@ -14,6 +14,7 @@ Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linke
 ## UX Projects
 * **UX Research** — Communication During a Telehealth Experience at UCLA Counseling and Psychological Services
 * **UX Design** — San José 311 App Redesign
+
 ___
 
 ## Communication During a Telehealth Experience at UCLA Counseling and Psychological Services (CAPS)
@@ -21,7 +22,7 @@ ___
 ### Challenge
 In response to the coronavirus disease (COVID-19) pandemic and shelter-in-place orders, UCLA’s CAPS transitioned to telehealth services only in order to provide remote treatment to the general student body. The transition to telehealth is new to many of the students and clinicians, and so student feedback is limited and unknown. There is a lack of information on the telehealth experience of UCLA students, or college students in general, especially in the context of this new reality. 
 
-I determined there needed to be more insight on the telehealth implementation from students in order to create great experiences. I **focus on communication** since it is the one of most important factors in a counseling session. The research I conducted was **generative**, or in the discovery phase. 
+I determined there needed to be more insight on the telehealth implementation from students in order to create great experiences. I focus on communication since it is the one of most important factors in a counseling session. The research I conducted was generative, or in the discovery phase. 
 
 *Note: Although I conducted a stakeholder interview with a staff, UCLA Counseling and Psychological Services is not associated with this project. This is only a student-led project for class.*
 
@@ -69,7 +70,7 @@ With only three survey responses within two weeks, it was difficult to analyze a
 * Telehealth may impede effective communication and result in unsatisfying experiences or less positive impact on emotional health. 
 * Effective communication through active listening, empathy, and clear visual cues helps build bonds and trust between clinician and student, which may positively impact emotional health.
 
-### *Improving communication during telehealth is the highest priority.*
+### >*Improving communication during telehealth is the highest priority.*
 
 ### Recommendations
 * Provide training materials to clinicians on improving communication during video conferencing and learning best practices to show empathy in computer-mediated communication
