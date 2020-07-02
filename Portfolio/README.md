@@ -1,5 +1,5 @@
 # Hello — I'm Lillian!
-Aspiring UX researcher and designer 
+**Aspiring UX researcher and designer**
 
 ![MyPhoto](MyPhoto.jpg)
 
@@ -101,6 +101,9 @@ Forming trust/bonds is the most defining factor of a counseling experience
 * Enhanced student telehealth experience due to better communication and trust
 * Gain insight into the clinicians’ perspective in order to improve their experience, which could indirectly produce positive student experiences
 
+---
+
+## San José 311 App Redesign
 
 
 
