@@ -139,10 +139,10 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 
 ![Ben Persona](ben_persona.jpg) 
 ![Ben Empathy Map](ben_empathymap.jpg)
-![Katie Persona](ben_persona.jpg) 
-![Katie Empathy Map](ben_empathymap.jpg)
-![Karen Persona](ben_persona.jpg) 
-![Karen Empathy Map](ben_empathymap.jpg)
+![Katie Persona](katie_persona.jpg) 
+![Katie Empathy Map](katie_empathymap.jpg)
+![Karen Persona](karen_persona.jpg) 
+![Karen Empathy Map](karen_empathymap.jpg)
 
 
 
