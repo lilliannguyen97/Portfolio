@@ -108,28 +108,17 @@ However, the current state of the app causes unnecessary delays and confusion to
 
 ***How might we create an intuitive design that all community members can use efficiently and effortlessly?***
 
-### Process
+### Research and Analysis
 
-1. Research
-   * Heurisitic Evaluation 
-   * Contextual Inquiry
-1. Analysis
-   * Personas
-   * Empathy Maps
-1. Ideation
-   * Wireframes and Wireflows
-   * Low-Fidelty Prototype Testing
-1. Design
-1. to be continued/changed....
+#### Heurisitic Evaluation --> Cognitive Walkthrough --> Contextual Inquiry**
 
-### Heuristic Evaluation
-I conducted a heuristic evaluation of the app, using Jakob Nielsen's 10 general principles for user interface design. I noticed issues with completing the following tasks:
+Usability problems to solve: 
 
 1. Creating and submitting a report
 1. Checking the status of the report
 1. Searching for reports made by other people
 
-### Contextual Inquiry
+Key Insights:
 
 * **It is important to report an issue for not only the individual but also for the community.** — The app is a community tool for
 keeping public spaces safe and clean. A motivating factor of reporting issues is the knowledge that it contributes to the well-being of the mojority and not just oneself.
@@ -138,7 +127,7 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 
 * **The long time spent on a task is attributed to the lack of technology experience.** — Poor UX is not one of the problems for navigating the app because the participant thinks their technical ability needs to be improved, which, in turn, obscures the possibility of the system being a problem.
 
-### Personas and Empathy Maps
+#### Personas and Empathy Maps
 
 ![Ben Persona](ben_persona.jpg) 
 ![Ben Empathy Map](ben_empathymap.jpg)
@@ -147,7 +136,9 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 ![Karen Persona](karen_persona.jpg) 
 ![Karen Empathy Map](karen_empathymap.jpg)
 
-### Low-Fidelity Prototype
+### Design 
+
+#### Low-Fidelity Prototype
 I focused on improving the design of these three features:
 
 * Step-by-step process to improve flow of questions
@@ -158,7 +149,7 @@ I focused on improving the design of these three features:
 ![Lofi 2](Lofi_Prototype_2.jpg)
 ![Lofi 3](Lofi_Prototype_3.jpg)
 
-### High-Fidelity Prototype
+#### High-Fidelity Prototype
 Check out the [**Interactive Prototype**](https://xd.adobe.com/view/b0b44283-18eb-460b-5381-bcbe85c657d5-c685/?fullscreen) on Adobe XD!
 
 ![Representative Screens](Represent.png)
