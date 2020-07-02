@@ -137,12 +137,12 @@ keeping public spaces safe and clean. A motivating factor of reporting issues is
 
 * **The long time spent on a task is attributed to the lack of technology experience.** — Poor UX is not one of the problems for navigating the app because the participant thinks their technical ability needs to be improved, which, in turn, obscures the possibility of the system being a problem.
 
-[Ben Persona](ben_persona.jpg) 
-[Ben Empathy Map](ben_empathymap.jpg)
-[Katie Persona](ben_persona.jpg) 
-[Katie Empathy Map](ben_empathymap.jpg)
-[Karen Persona](ben_persona.jpg) 
-[Karen Empathy Map](ben_empathymap.jpg)
+![Ben Persona](ben_persona.jpg) 
+![Ben Empathy Map](ben_empathymap.jpg)
+![Katie Persona](ben_persona.jpg) 
+![Katie Empathy Map](ben_empathymap.jpg)
+![Karen Persona](ben_persona.jpg) 
+![Karen Empathy Map](ben_empathymap.jpg)
 
 
 
