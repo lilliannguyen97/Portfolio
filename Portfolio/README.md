@@ -59,7 +59,7 @@ The three main constructs of communication: responsiveness/attentiveness of clin
 With only three survey responses within two weeks, it was difficult to analyze and obtain useful information. Since most of the questions were closed-ended, I could only use descriptive statistics by finding the average and standard deviation, of each question. However, the quantitative data did not amount to much insight and/or did not support the interview responses. 
 
 ### Key Insights
-**Not being heard or shown empathy**
+Not being heard or shown empathy
 
 >“I felt no empathy and feelings from him in telehealth.”
 
@@ -69,11 +69,11 @@ With only three survey responses within two weeks, it was difficult to analyze a
 
 >“He was secretly eating by moving in and out of the frame and I could see him chewing. This was unprofessional and annoyed me.”
 
-**Clinician was distracted or not paying attention**
+Clinician was distracted or not paying attention
 
 >“He was distracted and looking around a lot.”
 
-**Lack of visual cues**
+Lack of visual cues
 
 >“I can’t read the other person’s body language so there is more awkward stumbling.”
 
@@ -81,7 +81,7 @@ With only three survey responses within two weeks, it was difficult to analyze a
 
 >“When there is silence, I am either waiting for her to think or ask questions. I can’t read the social cues so we have to move on to verbal cues and set more communication guidelines.”
 
-**Forming trust/bonds is the most defining factor of a counseling experience**
+Forming trust/bonds is the most defining factor of a counseling experience
 >“I just want the clinician to listen and pay attention.” 
 
 >“Intent is the same but the impact is different since it is harder to connect, receive, and give fully through technology or a screen.”
@@ -99,7 +99,7 @@ With only three survey responses within two weeks, it was difficult to analyze a
 **Potential Outcomes**: 
 * Stronger connections and development of bonds between clinician and student
 * Enhanced student telehealth experience due to better communication and trust
-* Gain insight into the clinicians’ perspective in order to improve their experience, which indirectly produces positive student experiences
+* Gain insight into the clinicians’ perspective in order to improve their experience, which could indirectly produce positive student experiences
 
 
 
