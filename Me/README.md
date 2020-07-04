@@ -5,7 +5,7 @@
 
 I'm a recent college graduate from the University of California, Los Angeles. With a background in anthropology, I want to apply my research and qualitative analysis skills towards creating a greater impact on people. This led me to take a UX research and UX design course during my last quarter, where I've grown to love the UX field. 
 
-It takes me from understanding why people do things to improving their experiences. That process of listening and learning to reseaarching and designing puts people first in the center of everything — that's what makes UX so meaningful to me. 
+It takes me from understanding why people do things to improving their experiences. That process of listening and learning to researching and designing puts people first in the center of everything — that's what makes UX so meaningful to me. 
 
 **I'd love to speak with you!**
 
@@ -21,9 +21,9 @@ Here is my [resume](LillianNguyen_Resume.pdf)!
 ## Communication During a Telehealth Experience at UCLA Counseling and Psychological Services (CAPS)
 
 ### Overview
-In response to the coronavirus disease (COVID-19) pandemic and shelter-in-place orders, UCLA’s CAPS transitioned to telehealth services only in order to provide remote treatment to the general student body. The transition to telehealth is new to many of the students and clinicians, and so student feedback is limited and unknown. There is a lack of information on the telehealth experience of UCLA students, or college students in general, especially in the context of this new reality. 
+In response to the coronavirus disease (COVID-19) pandemic and shelter-in-place orders, UCLA’s CAPS transitioned to only telehealth services in order to provide remote treatment to the general student body. The transition to telehealth is new to many of the students and clinicians, and so student feedback is limited and unknown. There is a lack of information on the telehealth experience of UCLA students, or college students in general, especially in the context of this new reality. 
 
-I determined there needed to be more insight on the telehealth implementation from students in order to create great experiences. I focus on communication since it is the one of most important factors in a counseling session. The research I conducted was generative, or in the discovery phase. 
+I determined there needed to be more insight on the telehealth implementation from students in order to create great experiences. I focused on communication since it is the one of most important factors in a counseling session. The research I conducted was generative, or in the discovery phase. 
 
 ***How might we improve the communication between clinician and student during a telehealth session at CAPS?***
 
