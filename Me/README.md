@@ -9,7 +9,7 @@ It takes me from understanding why people do things to improving their experienc
 
 **I'd love to speak with you!**
 
-Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
+Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](http//www.linkedin.com/in/lilliannguyen97)!
 Here is my [resume](Resume_LillianNguyen.pdf)!
 
 ## UX Projects
