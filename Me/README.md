@@ -10,7 +10,7 @@ It takes me from understanding why people do things to improving their experienc
 **I'd love to speak with you!**
 
 Say hello at lilliannguyen@g.ucla.edu or connect with me on [LinkedIn](www.linkedin.com/in/lilliannguyen97)!
-Here is my [resume](Rename_LillianNguyen.pdf)!
+Here is my [resume](Resume_LillianNguyen.pdf)!
 
 ## UX Projects
 * **UX Research** — Communication During a Telehealth Experience 
