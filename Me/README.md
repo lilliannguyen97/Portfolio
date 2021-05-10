@@ -1,5 +1,5 @@
 # Hello — I'm Lillian!
-## Aspiring UX Researcher and Designer
+## Aspiring UX Researcher 
 
 ![MyPhoto](MyPhoto.jpg)
 
@@ -10,7 +10,6 @@ It takes me from understanding why people do things to improving their experienc
 **I'd love to speak with you!**
 
 Say hello at lilliannguyen@g.ucla.edu!
-Here is my [resume](Resume_LillianNguyen.pdf)!
 
 ## UX Projects
 * **UX Research** — Communication During a Telehealth Experience 
