@@ -12,8 +12,8 @@ It takes me from understanding why people do things to improving their experienc
 Say hello at lilliannguyen@g.ucla.edu!
 
 ## UX Projects
-* **UX Research** — Communication During a Telehealth Experience 
-* **UX Design** — San José 311 App Redesign
+* **UX Research course** — Communication During a Telehealth Experience 
+* **UX Design Research course** — San José 311 App Redesign
 
 
 
